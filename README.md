@@ -2,7 +2,6 @@
 
 - Aprendendo HTML5, CSS3 e JavaScript
 - Aluna da [{reprograma}](https://www.reprograma.com.br)
-- Pronomes: ela/dela
   
 </div>
 <div style="display: inline_block"><br>
