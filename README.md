@@ -2,6 +2,11 @@
 
 - Aprendendo HTML5, CSS3 e JavaScript
 - Aluna da [{reprograma}](https://www.reprograma.com.br)
+
+<div>
+  <a href="https://www.linkedin.com/in/marianapequeno/">
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianapequeno&layout=compact&langs_count=7&theme=default"/>
+</div>
   
 </div>
 <div style="display: inline_block"><br>
