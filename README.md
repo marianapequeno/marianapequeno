@@ -2,6 +2,7 @@
 
 - Aprendendo HTML5, CSS3 e JavaScript
 - Aluna da [{reprograma}](https://www.reprograma.com.br)
+- [Linkedin](https://www.linkedin.com/in/marianapequeno/)
 
 <div>
   <a href="https://www.linkedin.com/in/marianapequeno/">
@@ -16,5 +17,4 @@
   <a href="https://pt-br.reactjs.org/"><img align="center" alt="Logo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></a>
   <a href="https://git-scm.com/"><img align="center" alt="Logo-GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg"></a>
   <a href="https://www.figma.com/"><img align="center" alt="Logo-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"></a>
-  <a href="https://www.canva.com/"><img align="center" alt="Logo-Canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"></a>
 </div>
