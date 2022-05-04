@@ -1,6 +1,7 @@
 **Mariana**
 
-- Aprendendo HTML5, CSS3 e JavaScript
+- HTML5, CSS3 e JavaScript ES6
+- React JS
 - Aluna da [{reprograma}](https://www.reprograma.com.br)
 - [Linkedin](https://www.linkedin.com/in/marianapequeno/)
 
