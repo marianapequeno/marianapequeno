@@ -7,7 +7,7 @@
 
 <div>
   <a href="https://www.linkedin.com/in/marianapequeno/">
-  <img height="125em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianapequeno&layout=compact&langs_count=7&theme=vue"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianapequeno&layout=compact&langs_count=7&theme=default"/>
 </div>
   
 </div>
