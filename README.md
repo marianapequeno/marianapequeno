@@ -1,6 +1,6 @@
 **Mariana**
 
-- HTML5, CSS3 e JavaScript ES6
+- HTML5, CSS3 e JavaScript ES6+
 - Aluna da [{reprograma}](https://www.reprograma.com.br)
 
 <div>
