@@ -1,7 +1,7 @@
 **Mariana**
 
-- HTML5, CSS3, JavaScript ES6+
-- Aprendendo React JS
+- HTML5, CSS3
+- Me desenvolvendo em JavaScript ES6+ e React JS
 
 <div>
   <a href="https://www.linkedin.com/in/marianapequeno/">
